@@ -9,5 +9,6 @@ public class githubscript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("hi all");
     }
 }
