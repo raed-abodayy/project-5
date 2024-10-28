@@ -10,5 +10,6 @@ public class githubscript : MonoBehaviour
     void Start()
     {
         Debug.Log("hi all");
+        Debug.Log("hi all2");
     }
 }
